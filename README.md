@@ -7,4 +7,4 @@ Group Members:
 3.	Sudad Masnun Nabi 2322742042
 4.	Ashik Hassan 2323194042
 
-An AI-powered agricultural marketplace that connects farmers and customers through a centralized platform featuring secure authentication, product management, shopping, inventory management, and administrative control.
+An online agricultural marketplace that connects farmers and customers through a centralized platform featuring secure authentication, product management, shopping, inventory management, and administrative control.
