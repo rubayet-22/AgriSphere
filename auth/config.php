@@ -1,0 +1,3 @@
+// Google reCAPTCHA Keys
+define('RECAPTCHA_SITE_KEY', '6LdC5zYsAAAAADN7DxbwQdWnTnDM5lE7_p0fCcnu');
+define('RECAPTCHA_SECRET_KEY', '6LdC5zYsAAAAAMmTfuEhVOak2O1ZguOxEbMBfydN');

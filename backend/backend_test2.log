@@ -1,0 +1,4 @@
+[2026-08-15 16:18:50] [INFO ] AgriSphere C++ backend starting
+[2026-08-15 16:18:50] [INFO ] Configuration loaded from C:\xampp\htdocs\Agrisphere\backend\bin/../config/backend.ini
+[2026-08-15 16:18:50] [INFO ] DatabaseManager ready: 4 connection(s) to 127.0.0.1:3306/cse311 lab project
+[2026-08-15 16:18:50] [INFO ] HTTP API listening on http://127.0.0.1:8787 (8 worker threads)

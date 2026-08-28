@@ -1,0 +1,23 @@
+{
+    "version": 4,
+    "configurations": [
+        {
+            "name": "AgriSphere Backend (MinGW-w64)",
+            "includePath": [
+                "${workspaceFolder}/backend/include",
+                "${workspaceFolder}/backend/src"
+            ],
+            "defines": [
+                "NDEBUG",
+                "_WIN32"
+            ],
+            "compilerPath": "C:/mingw64/bin/g++.exe",
+            "compilerArgs": [
+                "-std=c++17"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ]
+}

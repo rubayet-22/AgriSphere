@@ -1,0 +1,8 @@
+[2026-08-15 13:44:48] [INFO ] AgriSphere C++ backend starting
+[2026-08-15 13:44:48] [INFO ] Configuration loaded from C:\xampp\htdocs\Agrisphere\backend\bin/../config/backend.ini
+[2026-08-15 13:44:48] [INFO ] DatabaseManager ready: 4 connection(s) to 127.0.0.1:3306/cse311 lab project
+[2026-08-15 13:44:48] [INFO ] HTTP API listening on http://127.0.0.1:8787 (8 worker threads)
+[2026-08-15 13:45:04] [ERROR] GET /api/orders/checkout-items -> MySQL error 1146 (42S02): Table 'cse311 lab project.product_discount' doesn't exist
+[2026-08-15 13:49:30] [INFO ] DiscountService: 137 member observer(s) subscribed to the discount subject
+[2026-08-15 13:49:30] [INFO ] DiscountSubject: notifying 138 observer(s) about "10% off Chicken (Layer)"
+[2026-08-15 13:49:30] [INFO ] [discount] Farmer Omar Faruk has discounted Chicken (Layer) by 10%. The price is now BDT 270.00 instead of BDT 300.00.
